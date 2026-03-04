@@ -1,6 +1,6 @@
-#include<iostream>
+#include<iostream> //headerfile for input or output.
 using namespace std;
-class Data
+class Data 
 {
 public:
     int age;
@@ -16,3 +16,8 @@ int main(){
     d.Bark();
     return 0;
 }
+//end of the program,
+//the output will be ,
+/*
+lie Bark
+ */
