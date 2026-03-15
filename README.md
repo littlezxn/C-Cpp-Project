@@ -29,10 +29,6 @@ Before you begin, ensure you have the following installed on your system:
 
 * C++ Compiler (e.g., g++)
 
-* Make utility (optional, but recommended for easy builds)
-
-* Terminal / Command Line access
-
 You can install these using your system’s package manager if they are not already installed.
 
 # 📄 Features
