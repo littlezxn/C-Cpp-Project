@@ -1,10 +1,6 @@
 # C-Project
 
 A simple C/C++ project. 
-* To clone this repository.
-```
-git clone https://github.com/littlezyn/C-project.git
-```
 
 # 📌 Overview
 
@@ -24,10 +20,18 @@ It is designed to be easy to compile and run using standard tools like gcc, g++,
 └── README.md            # This documentation
 ```
 # 🚀 Build & Installation
-Using Install.sh (recommended for linux user)
 
-Open a terminal .
+Open terminal and follow the steps given below.
 
+* Clone this repository.
+```
+git clone https://github.com/littlezyn/C-project.git
+```
+* After cloning open the directory.
+```
+cd C-project
+```
+* Using Install.sh to install C/C++ resorces (recommended for linux user),
 1. Make it executable
 ```
 chmod +x Install.sh
@@ -36,7 +40,7 @@ chmod +x Install.sh
 ```
 sudo ./Install.sh
 ```
-This will install the resorces for C/C++.
+This will install the resorces for C/C++ (According to your system).
 
 # 🛠️ Prerequisites
 
