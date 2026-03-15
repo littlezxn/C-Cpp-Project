@@ -3,7 +3,7 @@
 A simple C/C++ project. 
 * To clone this repository.
 ```
-https://github.com/littlezyn/C-project.git
+git clone https://github.com/littlezyn/C-project.git
 ```
 
 # 📌 Overview
