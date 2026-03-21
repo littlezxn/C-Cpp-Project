@@ -32,5 +32,7 @@ factorial of 5 will be
 5 * 4 * Factorial(3)
 5 * 4 * 3 * Factorial(2)
 5 * 4 * 3 * 2 * Factorial(1)
-5 * 4 * 3 * 2 * 1
+5 * 4 * 3 * 2 * 1 * Factorial(0)
+5 * 4 * 3 * 2 * 1 * 1
+120
 */
