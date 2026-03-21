@@ -15,7 +15,6 @@ It is designed to be easy to compile and run using standard tools like gcc, g++.
 ├── Cpp/                 # Source code directory (C++ files)
 ├── .config              # Tips for C/C++ files
 ├── .gitignore           # to ignore files
-├── Install.sh           # .sh for linux user for better workflow
 ├── Requirements.md      # Requirements for C/C++
 └── README.md            # This documentation
 ```
