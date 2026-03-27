@@ -16,7 +16,7 @@ It is designed to be easy to compile and run using standard tools like gcc, g++.
 ├── .config              # Tips for C/C++ files
 ├── .gitignore           # to ignore files
 ├── Requirements.md      # Requirements for C/C++
-└── README.md            # This documentation
+└── README.md            # This documentation README
 ```
 # 🚀 To Start Your coding Journey
 
