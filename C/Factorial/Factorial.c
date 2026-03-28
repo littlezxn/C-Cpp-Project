@@ -14,7 +14,7 @@ int main(){
     printf("Enter the number you want the factorial of: ");
     scanf("%d", &x);
     x = Factorial(x);
-    printf("%d", x);
+    printf("%d\n", x);
     return 0;
 }
 //end of the program
