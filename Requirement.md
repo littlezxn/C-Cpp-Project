@@ -12,7 +12,7 @@ if you're in windows just go the the browser and search C/C++ compiler and downl
 example = 'C:\MinGW\bin' like this.
 ```
 For better alternative i'll suggest you to download msys2 for better performance
-* Go to the browser and search MSYS2 download The
+* Go to the browser and search MSYS2 download Then Download The .exe file
 ```
 Msys2-Download.exe
 ```
