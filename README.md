@@ -24,7 +24,7 @@ Open terminal and follow the steps given below.
 
 * Clone this repository.
 ```
-git clone https://github.com/littlezxn/C-project.git
+git clone https://github.com/littlezxn/C-Cpp-Project.git
 ```
 
 # 🛠️ Prerequisites
