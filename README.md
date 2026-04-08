@@ -11,6 +11,7 @@ It is designed to be easy to compile and run using standard tools like gcc, g++.
 # 🗂 Project Structure
 
 ```
+├──Assets/               # Assets
 ├── C/                   # Source code directory (C files)
 ├── Cpp/                 # Source code directory (C++ files)
 ├── .config              # Tips for C/C++ files
