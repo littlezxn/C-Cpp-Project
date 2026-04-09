@@ -29,10 +29,10 @@ pacman -Suy
 pacman -S --needed base-devel mingw-w64-x86_64-toolchain
 ```
 * Add msys2 to your system path for better performance and easy access to gcc/g++ from command line.
-Search for "Environment Variables" in Windows
-Click on "Environment Variables"
-Under "System variables", find and select the "Path" variable, then click "Edit"
-Click "New" and add the path to your msys2 installation's bin directory
+* Search for "Environment Variables" in Windows
+* Click on "Environment Variables"
+* Under "System variables", find and select the "Path" variable, then click "Edit"
+* Click "New" and add the path to your msys2 installation's bin directory
 ```
 C:\msys64\usr\bin
 C:\msys64\mingw64\bin
