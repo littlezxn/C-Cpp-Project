@@ -35,8 +35,6 @@ Under "System variables", find and select the "Path" variable, then click "Edit"
 Click "New" and add the path to your msys2 installation's bin directory
 ```
 C:\msys64\usr\bin
-```and
-```
 C:\msys64\mingw64\bin
 ```
 Click "OK" to save the changes and close all dialog boxes.
