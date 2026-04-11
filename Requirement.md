@@ -18,6 +18,7 @@ Msys2-Download.exe
 ```
 Install and run it.
 
+* for more information about msys2 you can read the config.md or just go to the official website of msys2 and read the documentation.
 # Linux
 
 if you're on linux
