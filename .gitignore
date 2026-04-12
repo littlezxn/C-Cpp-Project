@@ -40,3 +40,6 @@ sample.c
 
 # vs code
 .vscode
+
+#other
+.codex
