@@ -53,7 +53,7 @@ public:
     void amountinwallet()
     {
         Data acc;
-        cout << "account balance checker: ";
+        cout << "account balance checker: \n";
         user_data();
         midprocess();
         pass();
