@@ -31,6 +31,8 @@ public:
 
         std::cout << "Enter Pin: ";
         std::cin >> u->pin;
+    }
+    ~User_info(){
         delete u;
     }
 };
