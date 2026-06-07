@@ -1,4 +1,4 @@
-# C-cpp-Project
+# C-Cpp-Project
 
 A simple C/C++ project. 
 
