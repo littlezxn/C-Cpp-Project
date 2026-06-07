@@ -51,7 +51,8 @@ void total(){
     struct Data *d2;
     d2 = new Data;
     d2->amount = 30000;
-    std::cout<<"You have Total "<<d2->amount<<" in your account.";
+    std::cout<<"You have Total "<<d2->amount<<" in your account."<<std::endl;
+    delete d2;
 }
 
 int main(){
