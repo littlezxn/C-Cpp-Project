@@ -11,13 +11,13 @@ It is designed to be easy to compile and run using standard tools like gcc, g++.
 # 🗂 Project Structure
 
 ```
-├──.assets/              # Assets
+├── .assets/             # Assets
+├── .md/                 # Documentation directory
 ├── C/                   # Source code directory (C files)
 ├── Cpp/                 # Source code directory (C++ files)
 ├── .gitignore           # to ignore files
 ├── README.md            # This documentation README
-├── Requirements.md      # Requirements for C/C++
-└── config.md            # Tips for C/C++ files
+└── main.c               # C source file
 ```
 # 🚀 To Start Your coding Journey
 
