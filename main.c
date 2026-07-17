@@ -1,8 +1,11 @@
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h> //for printf() and scanf() functions
+#include <stdlib.h> //for system() function
+
 void displayMenu();
 void choices();
-int main(){
+
+int main()
+{
     displayMenu();
     choices();
     return 0;
@@ -19,7 +22,7 @@ void choices()
     int choice;
     printf("Enter your choice: ");
     scanf("%d", &choice);
-    switch(choice)
+    switch (choice)
     {
     case 1:
         printf("You have chosen to learn C programming.\n");
