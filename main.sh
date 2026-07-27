@@ -1,3 +1,6 @@
+# TO run this script, use the following command in your terminal:
+# bash "chmod +x main.sh"
+# bash "./main.sh"
 #!/bin/bash
 if [ "$EUID" -ne 0 ]; then
     echo -e "\033[0;32mSuccess: The script is NOT running with sudo privileges.\033[0m"
