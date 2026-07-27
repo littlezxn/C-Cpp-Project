@@ -17,7 +17,8 @@ It is designed to be easy to compile and run using standard tools like gcc, g++.
 ├── Cpp/                 # Source code directory (C++ files)
 ├── .gitignore           # to ignore files
 ├── README.md            # This documentation README
-└── main.c               # C source file
+├── main.c               # C source file to see the project structure
+└── main.sh              # Shell script file for linux to see the project structure
 ```
 # 🚀 To Start Your coding Journey
 
