@@ -168,4 +168,3 @@ else
     echo -e "\033[0;31mError: This script cannot be run with sudo!\033[0m" >&2
     exit 1
 fi
-;;
