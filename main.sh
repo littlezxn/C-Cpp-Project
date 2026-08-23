@@ -8,7 +8,7 @@ TEXT_MUTED="#5f6368"    # Slate Gray
 
 # 2. Dependency Verification
 if ! command -v zenity &> /dev/null; then
-    echo "Error: Zenity is required. Install it using: sudo apt install zenity" >&2
+    echo "Error: Zenity is required. Install it using: install zenity" >&2
     exit 1
 fi
 
